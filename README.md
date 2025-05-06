@@ -1,6 +1,8 @@
 # longitudinal-dynamic-model-for-EV
 This repository contains a **Simulink-based simulation model** for the **longitudinal dynamics of an electric vehicle (EV)**, created as a demonstration example for **Chapter 12** of the following textbook:
 
+<img src="https://github.com/MOTIVES-LAB/PMSM_FOC/blob/main/textbook.png" alt="" style="width:200px; height:auto;">
+
 > 袁新枚, 范涛. *车用电机原理及应用* [M]. 第2版. 机械工业出版社, 2024.  
 > Yuan Xinmei, Fan Tao. *Principles and Applications of Automotive Electric Machines* (2nd Edition), China Machine Press, 2024.
 
